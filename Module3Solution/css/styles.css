@@ -1,13 +1,9 @@
-.navbar-brand {
-	background-color: #A00100;
-	color: white;
-	text-align: center;
-	width: 100%;
-}
-/*.navbar-brand a:hover, .navbar-brand a:focus {
+
+
+.navbar-brand a:hover, .navbar-brand a:focus {
 text-decoration: none;
 }
-*/
+
 .collapsable-nav {
 	background-color: #898989;
 }
@@ -19,7 +15,7 @@ text-decoration: none;
 #chickenTile {
 	background-color: #f1f881;
 	width: 100%;
-	margin: 5% ;
+	margin: 5% auto auto auto ;
 	padding: 5%
 
 }
